@@ -1,0 +1,26 @@
+# Environment files (secrets — never commit)
+ai-service/.env
+backend/.env
+frontend/.env
+.env
+
+# Python
+ai-service/venv/
+ai-service/__pycache__/
+ai-service/**/__pycache__/
+ai-service/chroma_data/
+ai-service/pdf_storage/
+
+# Java / Maven
+backend/target/
+
+# Node / React
+frontend/node_modules/
+frontend/dist/
+
+# IDE
+.idea/
+*.iml
+
+ai-service/sample.pdf
+ai-service/test_questions.txt
