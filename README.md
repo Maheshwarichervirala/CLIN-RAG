@@ -66,8 +66,3 @@ PDF documents.
 4. Register a user via the UI, then manually set that user's `role` to
    `ADMIN` in the `users` table to access the admin upload/document pages.
 
-## Not implemented (kept out of scope, per the finalized plan)
-
-Live PubMed/UpToDate/BMJ integration, clinical calculators, physician
-evaluation, adversarial testing, ClinicalQA benchmarking, comparison
-against other chatbots, and LLM fine-tuning.
